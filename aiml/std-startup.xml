@@ -1,1 +1,16 @@
+<aiml version="1.0">
+
+<!-- This category works with the standard AIML Set -->
+<category>
+<pattern>LOAD AIML B</pattern>
+<template>
+
+<!-- Cargar datos AIML -->
+<learn>aiml/mapundungun/chalin.aiml</learn>
+<learn>aiml/mapundungun/rakin.aiml</learn>
+
+</template>
+</category>
+
+</aiml>
 
