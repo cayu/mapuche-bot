@@ -22,3 +22,7 @@ Basado en https://github.com/sohelamin/chatbot
 4. Open **http://127.0.0.1:5000** in your browser.
 
 5. You're done and let's chat with your Robot via browser.
+
+### Referencias
+
+TESIS : Sistema para el Aprendizaje del Mapudungun. Incluyendo características de reconocimiento de voz y bot conversacional. MARCO ANTONIO ALVARADO TRONCOSO
