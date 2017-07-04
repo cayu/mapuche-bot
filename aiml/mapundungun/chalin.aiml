@@ -1,12 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <aiml version="1.0">
    <category>
-      <pattern>Hola</pattern>
+      <pattern>HOLA</pattern>
       <template>
          <random>
-            <li>Hola</li>
             <li>Mari Mari</li>
-            <li>Como estas</li>
          </random>
       </template>
    </category>
