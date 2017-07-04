@@ -25,4 +25,6 @@ Basado en https://github.com/sohelamin/chatbot
 
 ### Referencias
 
+Referencias teóricas que me sirvieron
+
 TESIS : Sistema para el Aprendizaje del Mapudungun. Incluyendo características de reconocimiento de voz y bot conversacional. MARCO ANTONIO ALVARADO TRONCOSO
